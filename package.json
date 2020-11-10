@@ -1,10 +1,10 @@
 {
-  "name": "brunch-app",
-  "description": "Brunch.io application",
+  "name": "Fictional CDN",
+  "description": "Is this a Rails CDN yet?",
   "private": true,
   "author": "Brunch",
-  "version": "0.0.1",
-  "repository": "",
+  "version": "0.0.2",
+  "repository": "https://github.com/mattr/fictional-cdn.com",
   "scripts": {
     "start": "brunch watch --server",
     "build": "brunch build --production"
